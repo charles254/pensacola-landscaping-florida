@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t3-p06-n02-local/sitemap.xml
