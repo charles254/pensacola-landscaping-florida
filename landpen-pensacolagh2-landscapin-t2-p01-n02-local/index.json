@@ -1,0 +1,23 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LANDSCAPIN-T2-P01-N02-LOCAL",
+  "slug": "landpen-pensacolagh2-landscapin-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Pavers, Retaining Walls & Architectural Hardscaping in Pensacola FL",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t2-p01-n02-local/",
+  "primaryEntity": "Subtropical Irrigation Automation & Smart Water Systems",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t1-p00-n01-local/",
+      "anchor": "Residential Landscaping in Pensacola Florida — Pricing & Master Planning FL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/"
+  ]
+}
