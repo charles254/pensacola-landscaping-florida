@@ -1,0 +1,22 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LAWNCARE-T2-P02-N02-LOCAL",
+  "slug": "landpen-pensacolagh2-lawncare-t2-p02-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Best Landscaping in Pensacola Florida — Premium Grounds Architecture",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t2-p02-n02-local/",
+  "primaryEntity": "Budget-Conscious Yard Solutions & Curb Enhancement",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t1-p00-n02-local/",
+      "anchor": "Affordable Lawn Care Pensacola FL — Warm-Season Turf Maintenance",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/"
+  ]
+}
