@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LANDSCAPIN-T3-P01-N02-LOCAL",
+  "slug": "landpen-pensacolagh2-landscapin-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Pavers, Retaining Walls & Architectural Hardscaping in Pensacola FL (2)",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t3-p01-n02-local/",
+  "primaryEntity": "Licensed Local Landscapers & Contractor Verification",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t2-p01-n01-local/",
+      "anchor": "Landscape Workshop FL & Conceptual Outdoor Living Design in Pensacola",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/services/sod-installation/"
+  ]
+}
