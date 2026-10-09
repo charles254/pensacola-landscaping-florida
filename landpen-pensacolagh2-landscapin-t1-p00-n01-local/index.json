@@ -1,0 +1,25 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LANDSCAPIN-T1-P00-N01-LOCAL",
+  "slug": "landpen-pensacolagh2-landscapin-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Residential Landscaping in Pensacola Florida — Pricing & Master Planning FL",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t1-p00-n01-local/",
+  "primaryEntity": "Residential Landscaping & Panhandle Microclimate Planning",
+  "outgoingLinks": [
+    {
+      "url": "https://landscapingpensacolaflorida.net/",
+      "anchor": "Residential landscaping in pensacola florida",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/"
+  ]
+}
