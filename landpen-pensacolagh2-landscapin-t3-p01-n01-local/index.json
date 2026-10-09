@@ -1,0 +1,23 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LANDSCAPIN-T3-P01-N01-LOCAL",
+  "slug": "landpen-pensacolagh2-landscapin-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Landscape Workshop FL & Conceptual Outdoor Living Design in Pensacola (2)",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t3-p01-n01-local/",
+  "primaryEntity": "Premium Grounds Architecture & Distinguished Estate Landscaping",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t2-p01-n01-local/",
+      "anchor": "Landscape Workshop FL & Conceptual Outdoor Living Design in Pensacola",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/"
+  ]
+}
