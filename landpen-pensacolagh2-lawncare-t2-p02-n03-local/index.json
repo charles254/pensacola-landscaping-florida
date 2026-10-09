@@ -1,0 +1,22 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LAWNCARE-T2-P02-N03-LOCAL",
+  "slug": "landpen-pensacolagh2-lawncare-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Landscapers Near Me in Pensacola FL — Choosing Certified Local Crews",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t2-p02-n03-local/",
+  "primaryEntity": "Affordable Landscape Estimating & Value Engineering",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t1-p00-n02-local/",
+      "anchor": "Affordable Lawn Care Pensacola FL — Warm-Season Turf Maintenance",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/"
+  ]
+}
