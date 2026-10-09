@@ -1,0 +1,23 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LAWNCARE-T3-P04-N01-LOCAL",
+  "slug": "landpen-pensacolagh2-lawncare-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "High-Capacity French Drains & Stormwater Control in Florida Yards",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t3-p04-n01-local/",
+  "primaryEntity": "Florida Certified Sod Supply & Precision Pallet Laying",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t2-p02-n01-local/",
+      "anchor": "Affordable Landscaping in Pensacola Florida — Cost Estimating & Value Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/"
+  ]
+}
