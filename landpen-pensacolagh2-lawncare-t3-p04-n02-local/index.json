@@ -1,0 +1,22 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LAWNCARE-T3-P04-N02-LOCAL",
+  "slug": "landpen-pensacolagh2-lawncare-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Florida Palm Tree Care, Nutritional Deficiencies & Pruning Standards",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t3-p04-n02-local/",
+  "primaryEntity": "Subtropical Irrigation Automation & Smart Water Systems",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-lawncare-t2-p02-n01-local/",
+      "anchor": "Affordable Landscaping in Pensacola Florida — Cost Estimating & Value Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/"
+  ]
+}
