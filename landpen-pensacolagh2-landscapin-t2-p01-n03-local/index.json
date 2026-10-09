@@ -1,0 +1,22 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LANDSCAPIN-T2-P01-N03-LOCAL",
+  "slug": "landpen-pensacolagh2-landscapin-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Cheap Landscaping in Pensacola Florida — Budget-Conscious Yard Solutions",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t2-p01-n03-local/",
+  "primaryEntity": "Florida Landscape Design Workshops & Spatial Zoning",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t1-p00-n01-local/",
+      "anchor": "Residential Landscaping in Pensacola Florida — Pricing & Master Planning FL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/"
+  ]
+}
