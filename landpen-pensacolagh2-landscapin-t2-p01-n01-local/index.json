@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH2-LANDSCAPIN-T2-P01-N01-LOCAL",
+  "slug": "landpen-pensacolagh2-landscapin-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Landscape Workshop FL & Conceptual Outdoor Living Design in Pensacola",
+  "canonical": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t2-p01-n01-local/",
+  "primaryEntity": "Florida Certified Sod Supply & Precision Pallet Laying",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/pensacola-landscaping-florida/landpen-pensacolagh2-landscapin-t1-p00-n01-local/",
+      "anchor": "Residential Landscaping in Pensacola Florida — Pricing & Master Planning FL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/"
+  ]
+}
